@@ -1,4 +1,3 @@
--- DATABASE diablo
 # Query 12. Games From 2011 and 2012 Year
 USE diablo;
 
